@@ -30,5 +30,3 @@ Data analysis for Marisa Roja's project of environmental distribution of SARS-Co
 ## 3. FRAP to SARS-CoV-2 genomes:
 
 `perl jmf4.pl /home/acobian/UCSD-download-06172020/FRAP-SARS-CoV-2/DB/SARSCOV2.fna /home/acobian/UCSD-download-06172020/FRAP-SARS-CoV-2/DS /home/acobian/UCSD-download-06172020/FRAP-SARS-CoV-2/results smalt 50000`
-
-
