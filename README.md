@@ -3,7 +3,7 @@ Data analysis for Marisa Roja's project of environmental distribution of SARS-Co
 
 ## 1. Download sequencing files from ftp server: 
 
-'wget --user user --password password [path to directory on FTP server] .'
+`wget --user user --password password [path to directory on FTP server] .`
 
 ## 2. Quality filtering:
 
