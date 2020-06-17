@@ -27,5 +27,7 @@ Data analysis for Marisa Roja's project of environmental distribution of SARS-Co
 
 ## 2. Quality filtering:
 
-## 3. FRAP to SARS-CoV-2 genomes: 
+## 3. FRAP to SARS-CoV-2 genomes:
+
+
 
