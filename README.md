@@ -23,6 +23,8 @@ Data analysis for Marisa Roja's project of environmental distribution of SARS-Co
 
 ### 2.5 Make a list of IDS 
 
+`ls P00_raw/ | cut -f 1,2,3 -d '_' | sort -n | uniq > IDS.txt`
+
 ## 2. Quality filtering:
 
 ## 3. FRAP to SARS-CoV-2 genomes: 
