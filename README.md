@@ -30,3 +30,10 @@ Data analysis for Marisa Roja's project of environmental distribution of SARS-Co
 ## 3. FRAP to SARS-CoV-2 genomes:
 
 `perl jmf4.pl /home/acobian/UCSD-download-06172020/FRAP-SARS-CoV-2/DB/SARSCOV2.fna /home/acobian/UCSD-download-06172020/FRAP-SARS-CoV-2/DS /home/acobian/UCSD-download-06172020/FRAP-SARS-CoV-2/results smalt 50000`
+
+## About databases
+
+>NC_030888.1 Sclerotium hydrophilum virus 1 isolate ShR#20 putative RNA-dependent RNA polymerase gene, complete cds
+>NC_030891.1 Sclerotium hydrophilum virus 1 isolate ShR#77 hypothetical protein genes, complete cds
+>NC_025401.1 Sunguru virus isolate Ug#41, complete genome
+
