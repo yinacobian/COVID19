@@ -38,11 +38,10 @@ Bacteria ribosomal
 SILVA database 
 https://ftp.arb-silva.de/current/Exports/
 
-`
-wget https://ftp.arb-silva.de/current/Exports/SILVA_138.1_SSURef_NR99_tax_silva.fasta.gz
-wget https://ftp.arb-silva.de/current/Exports/SILVA_138.1_LSURef_NR99_tax_silva.fasta.gz
+`wget https://ftp.arb-silva.de/current/Exports/SILVA_138.1_SSURef_NR99_tax_silva.fasta.gz`
+`wget https://ftp.arb-silva.de/current/Exports/SILVA_138.1_LSURef_NR99_tax_silva.fasta.gz`
 
-`
+
 
 `
 >NC_030888.1 Sclerotium hydrophilum virus 1 isolate ShR#20 putative RNA-dependent RNA polymerase gene, complete cds
