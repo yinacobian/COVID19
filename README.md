@@ -40,15 +40,23 @@ SILVA small and large subunits nonredundant databases were used to identify ribo
 SILVA database 
 https://ftp.arb-silva.de/current/Exports/
 
-SILVA SSU
+Download SILVA SSU
 
 `wget https://ftp.arb-silva.de/current/Exports/SILVA_138.1_SSURef_NR99_tax_silva.fasta.gz`
 
-SILVA LSU
+Download SILVA LSU
 
-`wget https://ftp.arb-silva.de/current/Exports/SILVA_138.1_LSURef_NR99_tax_silva.fasta.gz`
+`wget https://ftp.arb-silva.de/current/Exports/SILVA_138.1_SSURef_NR99_tax_silva.fasta.gz`
 
+Unzip
 
+`gunzip SILVA_138.1_SSURef_NR99_tax_silva.fasta.gz`
+
+`gunzip SILVA_138.1_SSURef_NR99_tax_silva.fasta.gz`
+
+Concatenate 
+
+`cat SILVA_138.1_SSURef_NR99_tax_silva.fasta SILVA_138.1_SSURef_NR99_tax_silva.fasta > all_ribosomal_SILVA_138.fasta`
 
 `
 >NC_030888.1 Sclerotium hydrophilum virus 1 isolate ShR#20 putative RNA-dependent RNA polymerase gene, complete cds
