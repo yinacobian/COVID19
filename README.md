@@ -33,6 +33,12 @@ Data analysis for Marisa Roja's project of environmental distribution of SARS-Co
 
 ## About databases
 
+Bacteria ribosomal 
+
+SILVA database 
+https://ftp.arb-silva.de/current/Exports/
+
+
 `
 >NC_030888.1 Sclerotium hydrophilum virus 1 isolate ShR#20 putative RNA-dependent RNA polymerase gene, complete cds
 >NC_030891.1 Sclerotium hydrophilum virus 1 isolate ShR#77 hypothetical protein genes, complete cds
