@@ -39,8 +39,11 @@ SILVA database
 https://ftp.arb-silva.de/current/Exports/
 
 SILVA SSU
+
 `wget https://ftp.arb-silva.de/current/Exports/SILVA_138.1_SSURef_NR99_tax_silva.fasta.gz`
+
 SILVA LSU
+
 `wget https://ftp.arb-silva.de/current/Exports/SILVA_138.1_LSURef_NR99_tax_silva.fasta.gz`
 
 
