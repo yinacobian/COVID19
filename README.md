@@ -33,7 +33,9 @@ Data analysis for Marisa Roja's project of environmental distribution of SARS-Co
 
 ## About databases
 
-Bacteria ribosomal 
+### Bacteria ribosomal 
+
+SILVA small and large subunits nonredundant databases were used to identify ribosomal RNA reads (SILVA release 138.1) 
 
 SILVA database 
 https://ftp.arb-silva.de/current/Exports/
