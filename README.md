@@ -58,6 +58,10 @@ Concatenate
 
 `cat SILVA_138.1_SSURef_NR99_tax_silva.fasta SILVA_138.1_SSURef_NR99_tax_silva.fasta > all_ribosomal_SILVA_138.fasta`
 
+### Viral RefSeq
+
+ftp://ftp.ncbi.nlm.nih.gov/refseq/release/viral/
+
 `
 >NC_030888.1 Sclerotium hydrophilum virus 1 isolate ShR#20 putative RNA-dependent RNA polymerase gene, complete cds
 >NC_030891.1 Sclerotium hydrophilum virus 1 isolate ShR#77 hypothetical protein genes, complete cds
